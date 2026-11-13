@@ -1,145 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8700ff&height=220&section=header&text=pan_dita1589&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Web%20%C2%B7%20Discord%20Bots%20%C2%B7%20moon%20Studios&descAlignY=62&descSize=18&descColor=dddddd" />
+  <img src="https://ufvebjscabomuayqtyyo.supabase.co/storage/v1/object/public/ANDRE/moonstudios_logotipo_500x500_negro.png" width="100" alt="Logotipo de Moon Studios" />
 
-</div>
+  # AndreSM
 
-<div align="center">
+  **Desarrollador de software · Sistemas web · Bots de Discord**
 
-<img src="https://ufvebjscabomuayqtyyo.supabase.co/storage/v1/object/public/ANDRE/moonstudios_logotipo_500x500_negro.png" width="100" alt="moon Studios" />
+  Diseño y desarrollo soluciones digitales con un enfoque en la funcionalidad, la experiencia de usuario y la escalabilidad.
 
-<br/>
+  [![Moon Studios](https://img.shields.io/badge/Moon_Studios-Sitio_web-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moon-studios.netlify.app/)
+  [![Discord](https://img.shields.io/badge/Discord-Comunidad-334155?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TBwPxtUG5p)
+  [![Instagram](https://img.shields.io/badge/Instagram-Moon_Studios-334155?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moon_studios.1589/)
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TBwPxtUG5p)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandita1589)
-[![moon Studios](https://img.shields.io/badge/moon_Studios-8700ff?style=for-the-badge&logoColor=white)](https://moon-studios.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moon_studios.1589)
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cascadia+Code&duration=3000&pause=500&color=8700FF&center=true&multiline=true&width=500&height=100&lines=Desarrollador+Web+%26+Discord+Bots;Fundador+de+moon+Studios;Diseño+%7C+Código+%7C+Creatividad" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=pandita1589&style=for-the-badge&color=8700ff&label=VISITAS)
-![GitHub followers](https://img.shields.io/github/followers/pandita1589?style=for-the-badge&color=8700ff&labelColor=000000)
+  ![Ubicación](https://img.shields.io/badge/Perú-0F172A?style=flat-square&logo=googlemaps&logoColor=white)
+  ![Enfoque](https://img.shields.io/badge/Software_%26_sistemas-0E7490?style=flat-square)
+  ![Año](https://img.shields.io/badge/2026-334155?style=flat-square)
 
 </div>
 
 ---
 
-## 👤 Sobre mí
+## Sobre mí
 
-<img align="right" src="https://media.tenor.com/ha080ZzS0WAAAAAC/panda-hi.gif" width="200" />
+Soy **AndreSM**, desarrollador de software y fundador de **[Moon Studios](https://moon-studios.netlify.app/)**. Me enfoco en crear aplicaciones web, bots de Discord y sistemas digitales que conectan diseño, lógica de negocio y tecnología.
 
-Soy **pandita**, desarrollador enfocado en bots de Discord, desarrollo web y diseño digital. Fundador de **moon Studios**, un estudio creativo que construye experiencias digitales únicas.
+Trabajo con interfaces modernas, servicios backend, bases de datos e integraciones entre plataformas. Mi objetivo es construir productos útiles, mantenibles y con una identidad visual consistente.
 
-- 🤖 Especializado en **Discord Bots** con discord.js
-- 🌐 Desarrollo de **aplicaciones web** modernas
-- 🎨 Diseño en **Photoshop** y herramientas creativas
-- 🌙 Fundador de **[moon Studios](https://moon-studios.netlify.app)**
-- 🎮 Gamer en mi tiempo libre
-- 🐼 El panda es mi espíritu animal
-- 📍 Perú
+### Áreas de desarrollo
 
-<br clear="right"/>
+| Área | Soluciones |
+| :-- | :-- |
+| **Desarrollo web** | Sitios, aplicaciones, paneles y dashboards adaptables. |
+| **Sistemas de gestión** | Módulos administrativos, usuarios, permisos y flujos de trabajo. |
+| **Bots y automatización** | Bots para Discord, comandos, moderación e integraciones. |
+| **Backend y APIs** | Servicios, endpoints, autenticación y conexión entre sistemas. |
+| **Bases de datos** | Diseño y consultas SQL, persistencia de datos e integraciones. |
+| **Experiencia de usuario** | Diseño de interfaces, identidad visual y mejora de procesos. |
 
 ---
 
-## ⚡ Skills
-
-<div align="center">
+## Tecnologías y herramientas
 
 ### Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Librerías
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![aoi.js](https://img.shields.io/badge/aoi.js-000000?style=for-the-badge&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0E7490?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0E7490?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0E7490?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0E7490?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0E7490?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0E7490?style=for-the-badge&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0E7490?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0E7490?style=for-the-badge&logo=css&logoColor=white)
 
-### Base de datos & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Frontend y diseño de interfaces
 
-### Herramientas & Design
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![React](https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-334155?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-334155?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-334155?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-334155?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-</div>
+### Backend, bots y APIs
 
----
+![Node.js](https://img.shields.io/badge/Node.js-0F766E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![discord.js](https://img.shields.io/badge/discord.js-0F766E?style=for-the-badge&logo=discord&logoColor=white)
+![aoi.js](https://img.shields.io/badge/aoi.js-0F766E?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_APIs-0F766E?style=for-the-badge)
 
-## 📦 Proyectos
+### Bases de datos y servicios cloud
 
-<div align="center">
+![MySQL](https://img.shields.io/badge/MySQL-0369A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0369A1?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-0369A1?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0369A1?style=for-the-badge&logo=supabase&logoColor=white)
 
-| Proyecto | Estado | Descripción |
-|---|---|---|
-| 🌙 **[moon Studios](https://moon-studios.netlify.app)** | ![Active](https://img.shields.io/badge/Activo-brightgreen?style=flat-square) | Estudio creativo de desarrollo digital |
-| 🌐 **Luna NET** | ![Active](https://img.shields.io/badge/Activo-brightgreen?style=flat-square) | Plataforma de bots con dashboard web |
-| 🐼 **PalPley** | ![Inactive](https://img.shields.io/badge/Descontinuado-red?style=flat-square) | Bot de Discord |
-| ⚔️ **Mitsuri Kanroji** | ![Inactive](https://img.shields.io/badge/Descontinuado-red?style=flat-square) | Bot de Discord |
-| 🌬️ **Muichiro Tokito** | ![Inactive](https://img.shields.io/badge/Descontinuado-red?style=flat-square) | Bot de Discord |
-| 🔥 **Rengoku** | ![Inactive](https://img.shields.io/badge/Descontinuado-red?style=flat-square) | Bot de Discord |
-| 💕 **BoyFriends** | ![Inactive](https://img.shields.io/badge/Descontinuado-red?style=flat-square) | Bot de Discord |
-| 🐼 **hello Panda** | ![Inactive](https://img.shields.io/badge/Descontinuado-red?style=flat-square) | Bot de Discord |
-| 🎵 **ChinChin** | ![Inactive](https://img.shields.io/badge/Descontinuado-red?style=flat-square) | Bot de Discord |
+### Plataformas, herramientas y despliegue
 
-</div>
+![Windows](https://img.shields.io/badge/Windows-334155?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-334155?style=for-the-badge&logo=android&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-334155?style=for-the-badge&logo=tauri&logoColor=white)
+![Git](https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-334155?style=for-the-badge&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-334155?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Proyectos y sistemas
 
-<div align="center">
+| Proyecto | Tipo | Estado | Descripción |
+| :-- | :-- | :-- | :-- |
+| **[Moon Studios](https://moon-studios.netlify.app/)** | Estudio digital | **Activo** | Desarrollo web, diseño y soluciones digitales. |
+| **Luna NET** | Bot y plataforma web | **Activo** | Ecosistema de bots de Discord y herramientas de gestión. |
+| **Plataforma corporativa Moon Studios** | Sistema interno | **Uso interno** | Acceso y gestión de herramientas corporativas. |
+| **Moon Academy** | Sistema educativo | **En desarrollo** | Plataforma académica, administración y gestión de trámites. |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pandita1589&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa&bg_color=111111" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandita1589&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=111111" />
+<details>
+<summary><strong>Ver proyectos anteriores de Discord</strong></summary>
 
-<br/>
+Proyectos descontinuados que forman parte de mi experiencia desarrollando bots:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pandita1589&theme=github-dark&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff)](https://git.io/streak-stats)
+- PalPley
+- Mitsuri Kanroji
+- Muichiro Tokito
+- Rengoku
+- BoyFriends
+- hello Panda
+- ChinChin
 
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pandita1589&bg_color=111111&color=aaaaaa&line=ffffff&point=555555&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Soporte
-
-¿Problemas con alguno de mis bots? Únete al servidor de soporte.
-
-<div align="center">
-
-[![Support Server](https://img.shields.io/badge/Servidor_de_Soporte-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TBwPxtUG5p)
-[![moon Studios Web](https://img.shields.io/badge/moon_Studios_Web-8700ff?style=for-the-badge&logoColor=white)](https://moon-studios.netlify.app)
-
-</div>
+</details>
 
 ---
 
+## Cómo abordo el desarrollo
+
+1. **Análisis:** comprender el problema, los requisitos y a quién va dirigido el sistema.
+2. **Diseño:** definir la estructura, los componentes y la experiencia de uso.
+3. **Implementación:** desarrollar frontend, backend, integraciones y base de datos según el proyecto.
+4. **Pruebas:** revisar funcionamiento, compatibilidad y posibles errores.
+5. **Mejora continua:** mantener el código organizado y evolucionar las funcionalidades.
+
+---
+
+## Contacto y comunidad
+
+¿Te interesa conocer mis proyectos o necesitas soporte relacionado con Moon Studios y sus servicios? Puedes encontrar más información en los siguientes canales:
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8700ff&height=100&section=footer" />
+[![Sitio web](https://img.shields.io/badge/Visitar_Moon_Studios-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moon-studios.netlify.app/)
+[![Discord](https://img.shields.io/badge/Comunidad_en_Discord-334155?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TBwPxtUG5p)
+[![Instagram](https://img.shields.io/badge/Instagram-334155?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moon_studios.1589/)
 
-<sub>© 2025 pandita1589 · moon Studios · Hecho con 🐼 desde Perú</sub>
+<sub>© 2026 AndreSM · Moon Studios · Perú</sub>
 
 </div>
+
+<!--
+NOTA DE MANTENIMIENTO:
+"AndreSM" es el nombre público mostrado en este README.
+Antes de insertar enlaces, seguidores, contribuciones o estadísticas de GitHub,
+confirma el @usuario real de la cuenta. https://github.com/AndreSM abre
+un perfil identificado como "andresm", cuya titularidad no está confirmada.
+Se omitieron estadísticas externas para evitar mostrar datos incorrectos
+(o tarjetas que fallen por límites de los servicios públicos).
+-->
